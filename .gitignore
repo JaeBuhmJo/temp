@@ -1,0 +1,6 @@
+# class 파일은 제외
+*.class
+index.txt
+
+# 확장자가 .a 인 파일 무시
+*.a
